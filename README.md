@@ -48,8 +48,7 @@ no shutdown
 ---
 
 ## 📸 Screenshots
-(Add screenshots here)
-
+See screenshots folder.
 ---
 
 ## ✅ Result
